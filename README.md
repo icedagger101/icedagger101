@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,arch,arduino,bash,cpp,cloudflare,cmake,css,discord,bots,docker,git,github,go,gradle,html,java,kali,kotlin,linux,md,mysql,neovim,nginx,obsidian,postgres,py,spring" height="80" alt="skills"  />
+  <img src="https://skillicons.dev/icons?i=arch,kali,linux,bash,cpp,go,java,kotlin,py,css,html,md,nginx,spring,mysql,postgres,cmake,docker,gradle,git,github,androidstudio,neovim,obsidian,arduino,bots,cloudflare,discord" height="80" alt="skills"  />
   <img width="12" />
 </div>
 
